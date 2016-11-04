@@ -9,9 +9,10 @@
 
 ## Deep Learning
 * [Deep Learning courses](http://machinelearningmastery.com/deep-learning-courses/)
-* [Convolutional Neural Networks for Visual Recognition Homepage](http://cs231n.stanford.edu)
+* [Convolutional Neural Networks for Visual Recognition Homepage - Stanford cs231n](http://cs231n.stanford.edu)
 * [Deep Learning book](http://deeplearningbook.org)
 * [Nvidia Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
+* [Deep Learning with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow/tree/pyss2016)
 
 ## Mathematics & Probability & Statistics
 * [Linear algebra](http://math.mit.edu/~gs/linearalgebra/)
