@@ -25,5 +25,10 @@
 * [Rstudio online learning](https://www.rstudio.com/online-learning/)
 * [UCLA R resource](http://www.ats.ucla.edu/stat/r/)
 
+## Anomaly Detection
+* [The Numenta Anomaly Benchmark](https://github.com/numenta/NAB)
+* [NuPIC anomaly detection](http://nupic.docs.numenta.org/stable/guides/anomaly-detection.html)
+* [Neural based Outlier Discovery](https://edouardfouche.com/Neural-based-Outlier-Discovery/)
+
 ## Misc.
 * [O'reilly free data reports](http://www.oreilly.com/data/free/)
