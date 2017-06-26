@@ -13,6 +13,7 @@
 * [Deep Learning book](http://deeplearningbook.org)
 * [Nvidia Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Deep Learning with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow/tree/pyss2016)
+* [Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/tutorial/)
 
 ## Mathematics & Probability & Statistics
 * [Linear algebra](http://math.mit.edu/~gs/linearalgebra/)
@@ -25,10 +26,14 @@
 * [Rstudio online learning](https://www.rstudio.com/online-learning/)
 * [UCLA R resource](http://www.ats.ucla.edu/stat/r/)
 
+## PySpark
+* [PySpark-Tutorial provides basic algorithms using PySpark](https://github.com/mahmoudparsian/pyspark-tutorial)
+
 ## Anomaly Detection
 * [The Numenta Anomaly Benchmark](https://github.com/numenta/NAB)
 * [NuPIC anomaly detection](http://nupic.docs.numenta.org/stable/guides/anomaly-detection.html)
 * [Neural based Outlier Discovery](https://edouardfouche.com/Neural-based-Outlier-Discovery/)
+* [LSTM anomaly detect](https://github.com/aurotripathy/lstm-anomaly-detect)
 
 ## Misc.
 * [O'reilly free data reports](http://www.oreilly.com/data/free/)
