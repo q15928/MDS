@@ -25,6 +25,8 @@
 * [R for Data Science (Hadley Wickham)](http://r4ds.had.co.nz/)
 * [Rstudio online learning](https://www.rstudio.com/online-learning/)
 * [UCLA R resource](http://www.ats.ucla.edu/stat/r/)
+* [Shirin's playgRound](https://shiring.github.io/)
+* [R bloggers](https://www.r-bloggers.com/)
 
 ## PySpark
 * [PySpark-Tutorial provides basic algorithms using PySpark](https://github.com/mahmoudparsian/pyspark-tutorial)
@@ -35,6 +37,7 @@
 * [NuPIC anomaly detection](http://nupic.docs.numenta.org/stable/guides/anomaly-detection.html)
 * [Neural based Outlier Discovery](https://edouardfouche.com/Neural-based-Outlier-Discovery/)
 * [LSTM anomaly detect](https://github.com/aurotripathy/lstm-anomaly-detect)
+* [Time series k-means auto-encoders](https://github.com/tdunning/k-means-auto-encoder)
 
 ## Misc.
 * [O'reilly free data reports](http://www.oreilly.com/data/free/)
